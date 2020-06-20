@@ -1,5 +1,11 @@
 # go-api
 
+引用第三方库
+
+    "github.com/gorilla/mux"  http 路由库
+    "github.com/Unknwon/goconfig" 配置文件解析库
+    如需要json解析。推荐"github.com/tidwall/gjson"
+
 功能
 
     http服务
